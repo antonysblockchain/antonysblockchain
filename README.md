@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antonysblockchain
 - 👀 I’m interested in Blockchain based projects
-- 🌱 I’m currently learning Javascript and Solidity
+- 🌱 I’m currently learning Javascript, Blockchain and Descentralized Systems.
 - 💞️ I’m looking to collaborate on Blockchain based projects
 - 📫 How to reach me: antonysblockchain@gmail.com
 
