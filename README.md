@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antonysblockchain
+- 👋 Hi, I’m @antonysblockchain. Software Tester and Blockchain passionate.
 - 👀 I’m interested in Blockchain based projects
 - 🌱 I’m currently learning Javascript, Blockchain and Descentralized Systems.
 - 💞️ I’m looking to collaborate on Blockchain based projects
